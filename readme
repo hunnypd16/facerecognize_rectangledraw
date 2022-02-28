@@ -1,0 +1,7 @@
+library to be used:
+                  opencv
+                  matplotlib
+recognize face from image
+convert it into gray scale
+then draw rectangle and crop it
+take xml file i.e harrascascade_frontalface_default.xml from google and paste it where the actual code is to be written
